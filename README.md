@@ -12,15 +12,3 @@ not necessarily have equal power level on a specific map.
 5. Unless otherwise stated, balance for the base factions will not diverge from regular faf balance,
 and any changes applied to faf balance will carry forward and be applied to the mod unless
 otherwise stated.
-Implementation
-Unranked mod
-Team
-Development team
-Dragun
-MadMax
-Balance team
-archsimkat
-Swkoll
-Other contributors
-Jip
-Sheikah
